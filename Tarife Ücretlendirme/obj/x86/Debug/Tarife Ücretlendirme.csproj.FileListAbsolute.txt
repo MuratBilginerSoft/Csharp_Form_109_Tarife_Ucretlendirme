@@ -1,0 +1,14 @@
+F:\ \4 PROGRAMLAMA\1 C# 2012\Tarife Ücretlendirme\Tarife Ücretlendirme\bin\Debug\Tarife Ücretlendirme.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\Tarife Ücretlendirme\Tarife Ücretlendirme\bin\Debug\Tarife Ücretlendirme.pdb
+F:\ \4 PROGRAMLAMA\1 C# 2012\Tarife Ücretlendirme\Tarife Ücretlendirme\obj\x86\Debug\Tarife_Ücretlendirme.Form1.resources
+F:\ \4 PROGRAMLAMA\1 C# 2012\Tarife Ücretlendirme\Tarife Ücretlendirme\obj\x86\Debug\Tarife_Ücretlendirme.Properties.Resources.resources
+F:\ \4 PROGRAMLAMA\1 C# 2012\Tarife Ücretlendirme\Tarife Ücretlendirme\obj\x86\Debug\Tarife Ücretlendirme.csproj.GenerateResource.Cache
+F:\ \4 PROGRAMLAMA\1 C# 2012\Tarife Ücretlendirme\Tarife Ücretlendirme\obj\x86\Debug\Tarife Ücretlendirme.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\Tarife Ücretlendirme\Tarife Ücretlendirme\obj\x86\Debug\Tarife Ücretlendirme.pdb
+E:\04 - Yazılım\04 - Form Projeleri\101 Tarife Ücretlendirme\Tarife Ücretlendirme\obj\x86\Debug\Tarife Ücretlendirme.exe
+E:\04 - Yazılım\04 - Form Projeleri\101 Tarife Ücretlendirme\Tarife Ücretlendirme\obj\x86\Debug\Tarife Ücretlendirme.pdb
+E:\04 - Yazılım\04 - Form Projeleri\101 Tarife Ücretlendirme\Tarife Ücretlendirme\bin\Debug\Tarife Ücretlendirme.exe
+E:\04 - Yazılım\04 - Form Projeleri\101 Tarife Ücretlendirme\Tarife Ücretlendirme\bin\Debug\Tarife Ücretlendirme.pdb
+E:\04 - Yazılım\04 - Form Projeleri\101 Tarife Ücretlendirme\Tarife Ücretlendirme\obj\x86\Debug\Tarife_Ücretlendirme.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\101 Tarife Ücretlendirme\Tarife Ücretlendirme\obj\x86\Debug\Tarife_Ücretlendirme.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\101 Tarife Ücretlendirme\Tarife Ücretlendirme\obj\x86\Debug\Tarife Ücretlendirme.csproj.GenerateResource.Cache
